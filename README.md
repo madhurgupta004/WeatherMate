@@ -1,4 +1,4 @@
-# clima
+# WeatherMate
 
 A new Flutter project.
 
